@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T03:35:25.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="9qoKp4MGXHjHJuIrskX5" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T03:37:48.459Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="4klHIATM2w5xncViA8gW" version="17.1.1" type="github">
   <diagram id="TUwF4UxvKeSGV4fCbect" name="Page-1">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -496,6 +496,15 @@
               <mxPoint x="280" y="225" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="o6SJBGKqbP3ARb-2CFPs-155" value="codes are mapped to more than one description?" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="710" width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="o6SJBGKqbP3ARb-2CFPs-156" value="How does a pair look like?" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="790" width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="o6SJBGKqbP3ARb-2CFPs-157" value="Statistics consistency?" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="867.5" width="180" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
